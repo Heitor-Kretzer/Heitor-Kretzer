@@ -1,6 +1,6 @@
  <div align="center">
  
- ![Header](./PROFILE.png)
+ ![Header](./KRETZER.png)
 
   </div>
 
