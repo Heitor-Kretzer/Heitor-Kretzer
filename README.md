@@ -32,5 +32,3 @@ MEU NOME É HEITOR KRETZER 🙋‍♂️ <br>16 ANOS 🎈 <br>MORO EM SÃO JOSÉ
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Heitor-Kretzer&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
