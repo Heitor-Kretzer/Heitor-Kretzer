@@ -3,7 +3,11 @@
  ![Header](./KRETZER.png)
 
   </div>
- #SOBRE MIM:
+ 
+ 
+ -------------------------------------------------------------------------------------------------------------------------------------
+ 
+ # 💫 About Me:
 MEU NOME É HEITOR KRETZER 🙋‍♂️ <br>16 ANOS 🎈 <br>MORO EM SÃO JOSÉ, SC 🗺 <br>CURSANDO O ENSINO MÉDIO INTEGRADO 👨‍💻 <br>ATUANDO NA AREA DE DESENVOLVIMENTO DE SISTEMAS 🖥 <br>ESTUDO NO SENAI 💻 <br>FORMADO EM CURSO DE INGLÊS(FLUENTE) 🗣<br>SEMPRE INOVANDO 🎨
 
 
@@ -30,4 +34,3 @@ MEU NOME É HEITOR KRETZER 🙋‍♂️ <br>16 ANOS 🎈 <br>MORO EM SÃO JOSÉ
 [![](https://visitcount.itsvg.in/api?id=Heitor-Kretzer&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
